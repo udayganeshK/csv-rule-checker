@@ -1,0 +1,5 @@
+fico >,tier =,type,pricing,matched_rule,rule_status
+750,1,prime,4.99,prime customer,Passed
+700,2,sub prime,7.99,sub prime,Passed
+550,3,low,12.99,low prime,Passed
+500,3,sub low,10.99,fail rpime,Passed

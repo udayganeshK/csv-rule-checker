@@ -1,0 +1,6 @@
+NAME, CONDITION, CONDITION,CONDITION, ACtion, ACTION, ACTION, PRIORITY
+ruleName,income,fico >,tier = ,type,cashDown,pricing,PRIORITY
+prime customer,,750,1,prime,500,4.99,1
+sub prime,,700,2,sub prime,789,7.99,2
+low prime,,550,3,low,987,12.99,4
+fail rpime,,500,3,sub low,600,10.99,3

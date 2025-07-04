@@ -1,0 +1,6 @@
+NAME, CONDITION, CONDITION, ACTION, ACTION, PRIORITY
+ruleName,fico >,tier = ,type,pricing,PRIORITY
+prime customer,750,1,prime,4.99,1
+sub prime,700,2,sub prime,7.99,2
+low prime,550,3,low,12.99,4
+fail rpime,500,3,sub low,10.99,3
